@@ -10,7 +10,7 @@ func main() {
 		fmt.Println(row)
 	}
 } else {
-	fmt.Println("no result")
+	fmt.Println("error 404")
 }
 
 }
@@ -187,6 +187,9 @@ if i-3 < 0 {
   //6 |   7 7 7 | 8 8 8 | 9 9 9
   //7 |   7 7 7 | 8 8 8 | 9 9 9
   //8 |   7 7 7 | 8 8 8 | 9 9 9
+
+
+
 
 
 
